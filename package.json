@@ -1,0 +1,15 @@
+{
+  "name": "js-client-example",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A minimal example of using Polygon's Client JS library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polygon.io/client-js": "^7.3.2"
+  }
+}
